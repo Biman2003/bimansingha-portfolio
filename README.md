@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 
 ## 🚀 Live Demo
 
-*(Add Vercel link here)*
+URL - https://bimansingha.vercel.app
 
 ## 🛠️ Built With
 
