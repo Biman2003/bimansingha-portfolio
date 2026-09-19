@@ -23,7 +23,7 @@ export const submitContactForm = async (req, res) => {
 
         // Send notification email
         const { data, error } = await resend.emails.send({
-            from: 'Portfolio <[EMAIL_ADDRESS]>',
+            from: 'Portfolio <singhabiman33@gmail.com>',
             to: [process.env.EMAIL_USER],
             subject: `New Portfolio Message from ${name}`,
             replyTo: email,
